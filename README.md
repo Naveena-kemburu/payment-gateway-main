@@ -131,18 +131,6 @@ docker-compose down
 **Card Payment**
 ![Card Checkout](screenshots/Card_Payment.png)
 
-
-## Demo Video
-
-A complete demo showing:
-- Order creation via API
-- Checkout flow
-- Successful payment
-
-📽️ Video Link:  
-https://drive.google.com/file/d/1gK6qeXw1nnajObNd3_IE7FLmR7ZSbEjA/view?usp=sharing
-
-
 ## Notes
 
 Login is dummy as per instructions
