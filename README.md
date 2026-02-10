@@ -1,6 +1,6 @@
 # Payment Gateway – Full Stack Assignment
 
-A complete payment gateway system with backend APIs, merchant dashboard, and public checkout flow.
+A complete payment gateway system with backend APIs, merchant dashboard, and public checkout flow
 The project is fully Dockerized and ready for evaluation.
 
 ---
